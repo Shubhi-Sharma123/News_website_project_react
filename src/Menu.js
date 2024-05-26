@@ -6,9 +6,7 @@ function Menu() {
     <>
       <nav className="navbar navbar-expand-lg bg-primary">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
-            Navbar
-          </Link>
+          <Link className="navbar-brand" to="/">Navbar</Link>
           <button
             className="navbar-toggler"
             type="button"
